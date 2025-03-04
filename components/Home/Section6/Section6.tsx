@@ -12,7 +12,7 @@ const Section6 = () => {
         <div className='grid grid-cols-1 lg:grid-cols-2 items-center gap-12'>
 
              {/* Image Content*/}
-             <div className='mx-auto  rounded-[3rem] overflow-hidden ' data-aos="fade-left" >
+             <div className='mx-auto  rounded-[3rem] overflow-hidden order-1 lg:order-2 ' data-aos="fade-left" >
             <a
               href="https://www.lavoroagro.com/app/"
               target="_blank"
@@ -31,7 +31,7 @@ const Section6 = () => {
           </div>
         
           {/* Text Content*/}
-          <div>
+          <div classMame='order-1>
             <h1 className='text-2xl sm:text-3xl md:text-3xl xl:text-3xl font-bold md:leading-[3rem] lg:leading-[4.5rem] xl:leading-[5rem]  h-full'>
             App Minha Lavoro
             </h1>
