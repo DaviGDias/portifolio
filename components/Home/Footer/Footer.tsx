@@ -6,7 +6,7 @@ const Footer = () => {
             <div className='mx-auto text-white flex justify-center'>
                 <p className='font-bold text-lg'>Davi <span className='text-purple-500'>Dias</span></p>
             </div>
-            <div className='p-8'>>
+            <div className='p-8'>
                 <p className='text-center'> Copyright © 2025 - Desenvolvido por Davi Dias - Todos os direitos reservados.</p>
             </div>
         </div>
