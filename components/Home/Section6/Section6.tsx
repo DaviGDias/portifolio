@@ -31,7 +31,7 @@ const Section6 = () => {
           </div>
         
           {/* Text Content*/}
-          <div classMame='order-1>
+          <div className='order-1'>
             <h1 className='text-2xl sm:text-3xl md:text-3xl xl:text-3xl font-bold md:leading-[3rem] lg:leading-[4.5rem] xl:leading-[5rem]  h-full'>
             App Minha Lavoro
             </h1>
