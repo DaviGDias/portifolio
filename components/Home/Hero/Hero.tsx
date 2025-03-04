@@ -39,7 +39,7 @@ const Hero = () => {
 
 
               </a>
-              <a href="curriculoDavi.pdf" download="CurriculoDaviDias" className='rounded-md bg-gray-300 px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs hover:bg-purple-500 hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-purple-500 transition duration-300' >Meu curriculo</a>
+              <a href="CurriculoDaviGDiass.pdf" download="CurriculoDaviDias" className='rounded-md bg-gray-300 px-3.5 py-2.5 text-sm font-semibold text-black shadow-xs hover:bg-purple-500 hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-purple-500 transition duration-300' >Meu curriculo</a>
 
             </div>
           </div>
