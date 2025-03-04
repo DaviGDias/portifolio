@@ -9,7 +9,7 @@ import React from 'react'
 const Section2 = () => {
   return (
     <div className='w-full flex justify-center flex-col items-center  bg-gray-200'>
-        <Title>Meus Projetos</Title>
+        <Title>Alguns dos projetos que trabalhei:</Title>
     <div id='projeto' className='w-full md:pt=[12vh] bg-gray-200 overflow-hidden relative'>
     
         
