@@ -15,7 +15,7 @@ const About = () => {
 
             {/* Image Content */}
             <div className='flex justify-center'>
-              <div className='w-full  sm:w-64 sm:h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 overflow-hidden'>
+              <div className='w-full  sm:w-auto sm:h-64 md:w-auto md:h-80 lg:w-auto lg:h-300 overflow-hidden'>
                 <Image src='/undraw_hello_ccwj.svg' alt='Ilustração' width={500} height={500} className='object-cover w-full h-full' />
               </div>
             </div>
