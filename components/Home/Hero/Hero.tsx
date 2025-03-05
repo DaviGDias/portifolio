@@ -13,7 +13,7 @@ const Hero = () => {
           {/* Text Content */}
           <div className='order-2 lg:order-1 text-left'>
             <h1 data-aos='fade-left' className="text-2xl md:text-3xl lg:text-4xl mb-4 text-gray-300 font-semibold">
-              Eu sou Davi
+             Sou Davi
             </h1>
             <h1 data-aos="zoom-in" data-aos-delay='100' className="text-3xl sm:text-4xl md:text-5xl xl:text-6xl font-bold leading-tight text-white">
               Web Design <span className="text-purple-500">UI/UX</span>
