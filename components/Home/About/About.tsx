@@ -12,7 +12,7 @@ const About = () => {
           <div className='grid grid-cols-1 lg:grid-cols-2 items-center gap-8 md:gap-12'>
             {/* Image Content */}
             <div className='flex justify-center'>
-              <div className='mx-auto lg:block rounded-3xl border-[3.5px] border-purple-500 overflow-hidden order-1 lg:order-2 w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 flex justify-center items-center'>
+              <div className='mx-auto lg:block rounded-3xl overflow-hidden order-1 lg:order-2 w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 flex justify-center items-center'>
                 <Image 
                   src='/perfil2.jpg' 
                   alt='Imagem' 
