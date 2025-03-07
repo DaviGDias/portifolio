@@ -31,7 +31,7 @@ const Section2 = () => {
             <p>A Delly’s é a maior distribuidora Food Service do Brasil. Fundado em 2015, o Grupo Delly’s tem como objetivo profissionalizar e melhorar a distribuição de alimentos para operadores de restaurantes, padarias, confeitarias, hotéis, supermercados, entre outros. Com presença nacional e expertise de 17 distribuidoras regionais que se juntaram ao grupo, durante este período, a Delly’s se consolidou como a maior distribuidora do Brasil no segmento.</p>
             <br />
             {/*<h1 className='text-bg font-bold text-xl '>Minha Atuação:</h1>*/}
-            <p >Atuei como UX/UI Design na concepção e aprimoramento da experiência do usuário no e-commerce da Delly's Food Service, garantindo uma interface intuitiva, acessível e eficiente para milhares de clientes do setor alimentício. Minhas principais atividades incluíram:</p>
+            <p >Atuei como UX/UI Design na concepção e aprimoramento da experiência do usuário no e-commerce da Delly's Food Service, garantindo uma interface intuitiva, acessível e eficiente para milhares de clientes do setor alimentício.</p>
            {/* <ul className='list-disc flex flex-col gap-4 mt-6'>
               <li>Wireframes e Prototipação: Desenvolvimento de wireframes, mockups e protótipos interativos de alta fidelidade utilizando ferramentas como Figma</li>
               <li>Design de Interface (UI): Criação de layouts responsivos e design system para proporcionar consistência visual e usabilidade em dispositivos móveis e desktop.</li>
