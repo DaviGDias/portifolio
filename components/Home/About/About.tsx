@@ -16,7 +16,7 @@ const About = () => {
             {/* Image Content */}
             <div className='flex justify-center'>
               <div className='rounded-3xl'>
-                <Image src='/perfil-2.jpg' alt='Imagem' width={350} height={350} className='rounded-3xl border-4 border-purple-500 ' />
+                <Image src='/perfil2.jpg' alt='Imagem' width={350} height={350} className='rounded-3xl border-4 border-purple-500 ' />
               </div>
             </div>
 
