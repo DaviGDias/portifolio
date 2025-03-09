@@ -8,7 +8,7 @@ import Section4 from './Section4/Section4'
 import Section6 from './Section6/Section6'
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
-import Contato from './Contato/contato'
+import Contato from './Contato/Contato'
 
 
 
