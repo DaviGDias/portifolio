@@ -17,7 +17,7 @@ export const navLinks = [
    {
         id:4,
         url:'#fale_comigo',
-        label: 'Fale Comigo'
+        label: 'Fale comigo'
     },
 
 
