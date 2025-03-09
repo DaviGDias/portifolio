@@ -9,6 +9,8 @@ import Section6 from './Section6/Section6'
 
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
+import Contato from './Contato/contato'
+
 
 
 const Home = () => {
@@ -34,6 +36,7 @@ const Home = () => {
       <Section3 />
       <Section4 />
       <Section6 />
+      <Contato />
     </div>
   )
 }
