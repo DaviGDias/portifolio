@@ -14,11 +14,11 @@ export const navLinks = [
         url:'#projeto',
         label: 'Projetos'
     },
-   /* {
+   /{
         id:4,
         url:'#fale_comigo',
         label: 'Fale Comigo'
     },
-*/
+
 
 ]
