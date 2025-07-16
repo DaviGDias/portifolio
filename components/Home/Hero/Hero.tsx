@@ -19,7 +19,7 @@ const Hero = () => {
               Web Design <span className="text-purple-500">UI/UX</span>
             </h1>
             <p className="mt-4 text-gray-400 text-sm sm:text-base">
-              Com mais de 3 anos de experiência em UI/UX na Compass.uol. Meu foco é entender as necessidades dos usuários e transformá-las em experiências digitais que superam expectativas, sempre guiado por empatia e excelência.
+              Com mais de 4 anos de experiência em UI/UX na Compass.uol. Meu foco é entender as necessidades dos usuários e transformá-las em experiências digitais que superam expectativas, sempre guiado por empatia e excelência.
             </p>
 
             <div className="flex justify-start gap-4 mt-6 items-center flex-wrap">
